@@ -1,2 +1,2 @@
-# randompass
+# RanPass
 create random password
